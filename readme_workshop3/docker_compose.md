@@ -22,7 +22,7 @@
     ports:
       - "5431:5432"
     volumes:
-      - /home/mis/postgres_blog_db:/var/lib/postgresql/data
+      - /home/postgres_blog_db:/var/lib/postgresql/data
 
 ```
 
