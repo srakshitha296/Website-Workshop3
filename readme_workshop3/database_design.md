@@ -1,6 +1,6 @@
 # Database
 
-## 1. Basig information  
+## 1. Basic information  
 
 ## 1.1 What?
 
